@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ReadyMySQL Front End", "ReadyMySQL Front End\ReadyMySQL Front End.vbproj", "{4C5A3010-86B7-4A5F-AEF2-773416DD2D2F}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ReadyMySQL", "..\ReadyMySQL\ReadyMySQL.vbproj", "{AF193B9B-6F80-463F-B74F-CF4C5DF603FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{4C5A3010-86B7-4A5F-AEF2-773416DD2D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C5A3010-86B7-4A5F-AEF2-773416DD2D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C5A3010-86B7-4A5F-AEF2-773416DD2D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF193B9B-6F80-463F-B74F-CF4C5DF603FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF193B9B-6F80-463F-B74F-CF4C5DF603FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF193B9B-6F80-463F-B74F-CF4C5DF603FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF193B9B-6F80-463F-B74F-CF4C5DF603FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
